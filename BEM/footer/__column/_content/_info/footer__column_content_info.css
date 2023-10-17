@@ -1,0 +1,5 @@
+.footer__column_content_info {
+    display: flex;
+    align-items: end;
+    width: 25%;
+}
