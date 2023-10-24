@@ -8,5 +8,5 @@
     flex-flow: column;
     justify-content: center;
     padding-left: 64px;
-    z-index: -2;
+    z-index: 1;
 }
